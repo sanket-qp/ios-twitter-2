@@ -31,5 +31,4 @@ Twitter Redux
 * Profile Page
 * Home Timeline
 
-Demo 
 ![Demo] (https://github.com/sanket-qp/ios-twitter-2/blob/master/twitter.gif)
