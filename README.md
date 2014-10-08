@@ -26,9 +26,9 @@ Completed Features
 * Demo
 http://vimeo.com/107671691
 
-
 Twitter Redux
 * Hamburger menu
 * Profile Page
 * Home Timeline
+
 Demo ![Demo] (https://github.com/sanket-qp/ios-twitter-2/blob/master/twitter.gif)
